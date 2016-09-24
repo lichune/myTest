@@ -1,0 +1,96 @@
+
+
+.list-title-way{
+	width:100%;
+	font-size: 12px;
+	border-bottom: 1px solid #cccccc;
+	margin-bottom:32px;
+	/*overflow: hidden;*/
+}
+.list-title-way .list-way-now{
+	height:25px;
+	display: inline-block;
+	line-height: 25px;
+	padding:2px 20px;
+	border-top-left-radius: 5px 5px;
+	border-top-right-radius: 5px 5px;
+	background:#000;
+	color:#fff; 
+	font-family: Helvetica,黑体;
+}
+.reg-info{
+	padding-left: 2px;
+	height:64px;
+}
+ li label{
+	width:100px;
+	float:left;
+	text-align: right;
+	line-height: 32px;
+	height:32px;
+	vertical-align: middle;
+}
+.reg-info input{
+	width:210px;
+	height:30px;
+	line-height: 30px;
+	vertical-align: middle;
+	
+	border: 1px solid #ccc;
+}
+.reg-info .get-conf-code{
+	display: inline-block;
+	width:100px;
+	height:25px;
+	line-height: 25px;
+	position: absolute;
+	top:3px;
+	text-align: center;
+	color:#000;
+	left:350px;
+	cursor:pointer;
+	border:1px solid #cccccc;
+}
+.reg-info .get-conf-code:hover{
+	background:#A78668;
+	color:#FFFFFF;
+}
+.agree{
+	margin-left:60px;
+	_margin-left:50px;
+	margin-bottom:20px;
+}
+.agree a{
+	color: #000;
+}
+.agree a:hover{
+	color:#A78668;
+}
+.register-btn{
+	width:210px;	
+	margin-left:72px;
+	height:30px;
+	line-height: 30px;	
+	color:#ffffff; 
+	font-size: 16px;
+	border:0;
+	cursor:pointer;
+	background: #cf0101;
+}
+.reg-login{
+	padding:30px 25px 20px 0;
+	text-align: right;
+	border-bottom: 1px solid #cccccc;
+}
+.reg-login a{
+	text-decoration: underline;
+	color:#a78668;
+	margin-left: 10px;
+}
+.reg-tip{
+	padding:30px 0 10px 0;
+	text-align: center;
+}
+.reg-tip span{
+	color:red;
+}

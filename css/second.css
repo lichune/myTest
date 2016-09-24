@@ -1,0 +1,60 @@
+
+.buyPeople{
+	width:200px;
+	margin-left: 70px;
+	height:630px;
+	border-radius:10px;
+	border:3px solid #b21920;
+}
+#span1{
+	width:200px;
+	border-radius:10px;
+	background:#b21920;
+	height: 30px;
+	display: block;
+	margin-left: 70px;
+	margin-top: 20px;
+	
+	
+}
+#span1 h2{
+	text-align: center;
+	color:white;
+	font-size: 16px;
+	padding-top: 3px;
+}
+.bp,.bp2{
+	width:200px;
+	
+	padding-top: 20px;
+}
+.bp{
+	border-bottom: none;
+	text-align:center;
+	}
+.bp2{
+	border-top: none;
+	text-align:center;
+}
+.bp,.bp2 a{
+	color:black;
+	font-size: 14px;
+}
+.bp a p span{
+	color:#f09a29;
+	font-size: 16px;
+}
+.bp a p b{
+	color:#486ef1;
+}
+.bp2 a p span{
+	color:#f09a29;
+	font-size: 16px;
+}
+.bp2 a p b{
+	color:#486ef1;
+}
+
+
+	
+

@@ -1,0 +1,230 @@
+.top{
+	width:100%;
+	height:30px;
+	background:#f4f3f1;
+}
+.top_l{
+	float:left;
+	line-height:30px;
+	font-size:12px;
+	color:black;
+	padding-left: 30px;
+}
+.top_l a{
+	color:black;
+}
+#a1{
+	color:#d6362a;
+}
+.top_r{
+	float:right;
+	line-height:30px;
+	font-size:12px;
+	padding-right: 10px;
+	
+}
+.top_r a{
+	color:black;
+}
+.top_r span{
+	color:#d6362a;
+	font-size:14px;
+}
+.logo{
+	width:1213px;
+	margin-left: 68px;
+	overflow: hidden;
+}
+.logo img{
+	float:left;
+}
+.searchBox {
+	width:537px;
+	height:33px;
+	float:left;
+	margin-top: 35px;
+	margin-left: 36px;
+}
+.search{
+	border: 2px solid #d6362a;
+	border-radius:21px;
+	width:528px;
+	height:33px;
+	float:left;
+	margin-left: 30px;
+	font-size:14px;
+	padding-left: 5px;
+}
+.btn_s{
+	float:right;
+	width:100px;
+	height:30px;
+	border-radius:21px;
+	background:#d6362a;
+	color:white;
+	line-height: 30px;
+	text-align: center;
+	font-size: 16px;
+	margin-top: -35px;
+	margin-right: -24px;
+}
+.buyCar{
+	width:167px;
+	height:30px;
+	border-radius: 20px;
+	border:2px solid #d6362a;
+	float: left;
+	margin-left: 47px;
+	margin-top: 35px;
+	font-size: 16px;
+	background:#d6362a;
+	line-height: 25px;
+}
+.buyCar img{
+	border-radius: 20px;
+}
+.buyCar a{
+	color:white;
+}
+.header{
+	width:100%;
+	height: 35px;
+	background:#d6362a;
+}
+.header .ul1{
+	width:210px;
+	height:35px;
+	border-radius: 20px;
+	background:#b21920;
+	float:left;
+	margin-left: 65px;
+	
+}
+
+.ul1 li a img{
+	vertical-align: middle;
+}
+#li1{
+	color:white;
+	font-size:14px;
+	text-align: center;
+	line-height: 30px;
+	padding-left: 50px;
+}
+.header .ul2{
+	width:580px;
+	height:35px;
+	float:left;
+}
+.header .ul2 li{
+	float:left;
+	margin-left:30px ;
+	line-height: 30px;
+}
+.header .ul2 li a{
+	color: #feb3a2;
+	font-size: 14px;
+	
+}
+.header .ul2 li a img{
+	vertical-align: middle;
+}
+
+.fenlei{
+	width:200px;
+	border:3px solid #b21920;
+	border-radius: 10px;
+	display:none;
+	position:absolute;
+	z-index: 999;
+	background:grey;
+	margin-top: 5px;
+}
+.fenlei #yiji li{
+	width:200px;
+	text-align: center;
+	margin-top: 5px;
+	float: left;
+	line-height: 40px;
+	
+}
+.fenlei ul li h2{
+	background:#feefec;
+	text-align: center;
+    font-size: 14px;
+    line-height:30px;
+}
+.fenlei ul li a{
+	color:black;
+	font-size:14px;
+	line-height:20px;
+	
+}
+/*.fenlei ul li:hover{
+	background:red;
+}*/
+
+#third,#four{
+	position:absolute;
+	top: 35px;
+    left: 160px;
+}
+#third li{
+	float:left;
+	background:rgba(225,225,225,0.5);
+}
+#four li{
+	float:left;
+	background:rgba(225,225,225,0.5);
+}
+.footer{
+	width:100%;
+	height:180px;
+	background:#f4f3f1;
+}
+.footer .footerc{
+	width:1213px;
+	margin:0 auto;
+}
+.footer ul{
+	width:200px;
+	height:150px;
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+}
+.footer ul li{
+	width:160px;
+	height:30px;
+	font-size:16px;
+	line-height: 25px;
+	text-align: center;
+	float:left;
+}
+.footer ul li a{
+	color:black;
+}
+.footer ul li h3{
+	font-size:18px;
+	font-weight: bold;
+}
+.boxc{
+	width:100%;
+	background:#f4f3f1;
+}
+.copyRight{
+	width:520px;
+	height:75px;
+	margin:0 auto; 
+	padding-top: 50px;
+	background:#f4f3f1;
+	
+}
+.copyRight a,p{
+	color:black;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:20px;
+	font-size: 14px;
+	line-height: 20px;
+}

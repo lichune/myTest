@@ -1,0 +1,40 @@
+.centerBox{
+	width:720px;
+	height:240px;
+	margin:0 auto;
+	border: 3px solid #d63529;
+	border-radius: 10px;
+	margin-top:30px;
+	
+}
+.centerBox .c-box{
+	width:500px;
+	height:150px;
+	margin:0 auto;
+	padding:20px  40px 40px 20px;
+	margin-top: 30px;
+}
+.centerBox h2{
+	font-size: 25px;
+	color:#d63529;
+}
+.centerBox #p1{
+	font-size: 16px;
+}
+.centerBox #p2{
+	font-size: 14px;
+	color:red;
+} 
+.centerBox a{
+	color:white;
+	background:#d63529;
+	text-align: center;
+	border-radius: 26px;
+	display:block;
+	width:210px;
+	height:45px;
+	margin:0 auto;
+	margin-top: 20px;
+	font-size: 18px;
+	line-height: 40px;
+}

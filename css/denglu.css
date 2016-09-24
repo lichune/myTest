@@ -1,0 +1,52 @@
+.login{
+	width:717px;
+	height:344px;
+	border:2px solid #d6362a;
+	border-radius:20px ;
+	margin:0 auto;
+}
+form{
+	width:410px;
+	height:258px;
+	margin:0 auto;
+	padding-top: 30px;
+}
+#txt1,#txt2{
+	width:410px;
+}
+.span1{
+	width:410px;
+	height:37px;
+	display:block;
+	background:#d6362a;
+	border-radius:20px ;
+}
+.span2{
+	width:410px;
+	height:37px;
+	display:block;
+	border: 1px solid #d6362a;
+	border-radius:20px ;
+	
+}
+#span_denglu{
+	
+	color:white;
+	font-size:16px;
+	line-height:30px;
+	text-align: center;
+	padding-left: 170px;
+}
+#span_zhuce{
+	color:#d6362a;
+	font-size:16px;
+	line-height:30px;
+	text-align: center;
+	padding-left: 124px;
+}
+span a {
+	color:#d6362a;
+}
+#span_d{
+	float:right;
+}
